@@ -10,6 +10,7 @@ import android.widget.Button;
 public class Main extends Activity {
 	
 	public final static String EXTRA_MESSAGE = "com.oliver.abc.ALPHABET";
+	private AlphabetHelper alphaHelper = new AlphabetHelper();
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -29,7 +30,7 @@ public class Main extends Activity {
 		Intent intent = new Intent(this, DisplayAlphabet.class);
 		Button button = (Button) view;
 		String alphabet = button.getText().toString();
-		intent.putExtra(EXTRA_MESSAGE, AlphabetHelper.getAlphabetWord(alphabet));
+		intent.putExtra(EXTRA_MESSAGE, alphaHelper.getAlphabetWord(alphabet));
 		startActivity(intent);
 	}
 

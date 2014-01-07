@@ -38,12 +38,6 @@
             android:layout_height="wrap_content"
             android:onClick="onAlphabetButtonClick"
             android:text="@string/button_D" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
 
         <Button
             android:id="@+id/ButtonE"
@@ -106,12 +100,6 @@
             android:layout_height="wrap_content"
             android:onClick="onAlphabetButtonClick"
             android:text="@string/button_L" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
 
         <Button
             android:id="@+id/ButtonM"
@@ -174,12 +162,6 @@
             android:layout_height="wrap_content"
             android:onClick="onAlphabetButtonClick"
             android:text="@string/button_T" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal" >
 
         <Button
             android:id="@+id/ButtonU"
