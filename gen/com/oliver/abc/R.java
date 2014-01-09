@@ -21,40 +21,42 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int a=0x7f020000;
+        public static final int b=0x7f020001;
+        public static final int c=0x7f020002;
+        public static final int d=0x7f020003;
+        public static final int e=0x7f020004;
+        public static final int f=0x7f020005;
+        public static final int g=0x7f020006;
+        public static final int h=0x7f020007;
+        public static final int i=0x7f020008;
+        public static final int ic_launcher=0x7f020009;
+        public static final int j=0x7f02000a;
+        public static final int k=0x7f02000b;
+        public static final int l=0x7f02000c;
+        public static final int m=0x7f02000d;
+        public static final int n=0x7f02000e;
+        public static final int o=0x7f02000f;
+        public static final int p=0x7f020010;
+        public static final int q=0x7f020011;
+        public static final int r=0x7f020012;
+        public static final int s=0x7f020013;
+        public static final int t=0x7f020014;
+        public static final int u=0x7f020015;
+        public static final int v=0x7f020016;
+        public static final int w=0x7f020017;
+        public static final int x=0x7f020018;
+        public static final int yz=0x7f020019;
     }
     public static final class id {
-        public static final int ButtonA=0x7f080000;
-        public static final int ButtonB=0x7f080001;
-        public static final int ButtonC=0x7f080002;
-        public static final int ButtonD=0x7f080003;
-        public static final int ButtonE=0x7f080004;
-        public static final int ButtonF=0x7f080005;
-        public static final int ButtonG=0x7f080006;
-        public static final int ButtonH=0x7f080007;
-        public static final int ButtonI=0x7f080008;
-        public static final int ButtonJ=0x7f080009;
-        public static final int ButtonK=0x7f08000a;
-        public static final int ButtonL=0x7f08000b;
-        public static final int ButtonM=0x7f08000c;
-        public static final int ButtonN=0x7f08000d;
-        public static final int ButtonO=0x7f08000e;
-        public static final int ButtonP=0x7f08000f;
-        public static final int ButtonQ=0x7f080010;
-        public static final int ButtonR=0x7f080011;
-        public static final int ButtonS=0x7f080012;
-        public static final int ButtonT=0x7f080013;
-        public static final int ButtonU=0x7f080014;
-        public static final int ButtonV=0x7f080015;
-        public static final int ButtonW=0x7f080016;
-        public static final int ButtonX=0x7f080017;
-        public static final int ButtonY=0x7f080018;
-        public static final int ButtonZ=0x7f080019;
-        public static final int action_settings=0x7f08001a;
+        public static final int action_settings=0x7f080002;
+        public static final int gridView1=0x7f080001;
+        public static final int grid_item_image=0x7f080000;
     }
     public static final class layout {
-        public static final int display_alphabet=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int alphabetview=0x7f030000;
+        public static final int display_alphabet=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class menu {
         public static final int display_alphabet=0x7f070000;
@@ -88,8 +90,10 @@ public final class R {
         public static final int button_W=0x7f050018;
         public static final int button_X=0x7f050019;
         public static final int button_Y=0x7f05001a;
+        public static final int button_YZ=0x7f05001c;
         public static final int button_Z=0x7f05001b;
-        public static final int title_activity_display_alphabet=0x7f05001c;
+        public static final int img_content_desc=0x7f05001e;
+        public static final int title_activity_display_alphabet=0x7f05001d;
     }
     public static final class style {
         /** 

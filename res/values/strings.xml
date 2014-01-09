@@ -29,6 +29,8 @@
     <string name="button_X">X</string>
     <string name="button_Y">Y</string>
     <string name="button_Z">Z</string>
+    <string name="button_YZ">YZ</string>
     <string name="title_activity_display_alphabet">DisplayAlphabet</string>
+    <string name="img_content_desc">Alphabet Image</string>
 
 </resources>
